@@ -2,3 +2,9 @@ webpage=the tab which is opened in browser is called webpage
 HTML=desiging the skeleton of the web paage (or) structure of web page is desigined by using HTML
 CSS= CSS describes how HTML elements should be displayed.
 JS= JavaScript is a programming language used to create dynamic content for websites.
+
+
+three types of css
+1)inline css-appllies inside the start tag using style attribute with property : property value
+2)internal css
+3)external css
